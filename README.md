@@ -1,2 +1,2 @@
-# IPT2-Github-Act4
-Repository for IPT2 Lab Activity 4
+# IPT2-Github-Case-Study
+Repository for IPT2 Lab Midterm Case Study
